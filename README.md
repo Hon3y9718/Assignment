@@ -1,16 +1,12 @@
-# assignment
+# Assignment
 
-A new Flutter project.
+## Features: 
 
-## Getting Started
+1. Click on the notification to open a Specific Screen
+2. Shows Alert in all states of app (e.g. Resume, Inactive, Detatched, Paused)
 
-This project is a starting point for a Flutter application.
+## Usage
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Click on the buttons on Home Screen to get notifications.
+2. Click on Notification to open Specific Screen
+3. When the app changes state it shows Full Screen Alert with 2 Buttons (Yes/No). On click of buttons shows pop up Dialog (Accepted/Not Accepted).
